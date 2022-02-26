@@ -76,9 +76,9 @@ $(document).ready(function(){
 });
 
 //Quiz code block
-const quizData1 = [
+const quizData = [
     {
-        question: "Quiz 1 Questions",
+        question: "Which language runs in a web browser?",
         a: "Java",
         b: "C",
         c: "Python",
@@ -86,7 +86,7 @@ const quizData1 = [
         correct: "d",
     },
     {
-        question: "Quiz 1 Questions",
+        question: "What does CSS stand for?",
         a: "Central Style Sheets",
         b: "Cascading Style Sheets",
         c: "Cascading Simple Sheets",
@@ -94,7 +94,7 @@ const quizData1 = [
         correct: "b",
     },
     {
-        question: "Quiz 1 Questions",
+        question: "What does HTML stand for?",
         a: "Hypertext Markup Language",
         b: "Hypertext Markdown Language",
         c: "Hyperloop Machine Language",
@@ -102,7 +102,7 @@ const quizData1 = [
         correct: "a",
     },
     {
-        question: "Quiz 1 Questions",
+        question: "What year was JavaScript launched?",
         a: "1996",
         b: "1995",
         c: "1994",
@@ -132,7 +132,7 @@ function loadQuiz() {
 
     deselectAnswers()
 
-    const currentQuizData = quizData1[currentQuiz]
+    const currentQuizData = quizData[currentQuiz]
 
     questionEl.innerText = currentQuizData.question
     a_text.innerText = currentQuizData.a
