@@ -1,14 +1,10 @@
 //Format is Question, choice 1, choice 2, choice 3, choice 4, # of correct answer
 
 var questions = [
-  ["The Moon is seen because____", "sunlight reflects off of its surface", "the stars shine on it at night", "The Moon's surface is hot","The Moon makes its own light", "1"],
-  ["A gas giant planet is not made of solid matter. A terrestrial planet is made of___ ", "moons and rocks", "rocks and metals", "gases and heat", "metals and moons","2"],
-  ["How many planets are in our solar system?", "9", "6", "7", "8","4"],
-  [" What two planets are in between the Sun and Earth?", "Mars and Jupiter", "Mercury and Venus", "Neptune and Mercury", "Saturn and Uranus","2"],
-  ["The Moon revolves around___", "the Sun", " an eclipse", "the Earth", "another moon","3"],
-  ["Earth revolves around the ___", "Sun", "Moon", "clouds", "planets","1"],
-  ["How long does it take to go through the phases of the Moon cycle?", "About one day", "About one decade", "About one year", "About one month","4"],
-  ["Which item in space is an average-sized yellow star that is about 1.39 million  kilometers in diameter?", "Moon", "Sun", "Earth", "Jupiter","2"],
-  ["Which two scientists developed a model of the solar system most like the one used  today?", "Copernicus and Galileo", "Galileo and Aristotle", "Copernicus and Ptolemy", "Aristotle and Ptolemy","1"],
-  ["What is the correct order of the planets starting with the planet closest to the sun?", "Neptune, Uranus, Saturn, Jupiter, Mars, Earth, Venus, Mercury", "Mercury, Saturn, Earth, Jupiter, Venus, Neptune, Mars, Uranus", "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune", "Mars, Uranus, Earth, Neptune, Saturn, Jupiter, Mercury, Venus","3"],
+  ["What is the median of these numbers? 2,28,28,19,67,44,35", "19","28","44","35","2"],
+  ["Last week 24,000 fans attended a football match. This week three times as many bought tickets, but one-sixth of them canceled their tickets. How many are attending this week?","48000","54000","60000","72000","3"],
+  ["If x=-8, which equation is true?", "x(2x-4)=120", "8(4-x)=96", "2(4x+6)=79", "6x-2=-46","2"],
+  [" In a bag of small balls 1/3 are black, 1/6 are white, 1/4 are red and the remaining 12 blue. How many balls are white?", "8","12","16","24","1"],
+  ["A boat sails 40 miles south and then 30 miles east. How far is the boat from its start point?", "45","50","60","70","2"],
+  ["Sophia purchased a sofa for $530.40. The sofa is regularly priced at $624. What was the percent discount Sophia received on the sofa?", "12%","15%","20%","25%","2"],
   ];
