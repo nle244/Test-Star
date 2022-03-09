@@ -1,14 +1,23 @@
 //Format is Question, choice 1, choice 2, choice 3, choice 4, # of correct answer
 
 var questions = [
-  ["The Moon is seen because____", "sunlight reflects off of its surface", "the stars shine on it at night", "The Moon's surface is hot","The Moon makes its own light", "1"],
-  ["A gas giant planet is not made of solid matter. A terrestrial planet is made of___ ", "moons and rocks", "rocks and metals", "gases and heat", "metals and moons","2"],
-  ["How many planets are in our solar system?", "9", "6", "7", "8","4"],
-  [" What two planets are in between the Sun and Earth?", "Mars and Jupiter", "Mercury and Venus", "Neptune and Mercury", "Saturn and Uranus","2"],
-  ["The Moon revolves around___", "the Sun", " an eclipse", "the Earth", "another moon","3"],
-  ["Earth revolves around the ___", "Sun", "Moon", "clouds", "planets","1"],
-  ["How long does it take to go through the phases of the Moon cycle?", "About one day", "About one decade", "About one year", "About one month","4"],
-  ["Which item in space is an average-sized yellow star that is about 1.39 million  kilometers in diameter?", "Moon", "Sun", "Earth", "Jupiter","2"],
-  ["Which two scientists developed a model of the solar system most like the one used  today?", "Copernicus and Galileo", "Galileo and Aristotle", "Copernicus and Ptolemy", "Aristotle and Ptolemy","1"],
-  ["What is the correct order of the planets starting with the planet closest to the sun?", "Neptune, Uranus, Saturn, Jupiter, Mars, Earth, Venus, Mercury", "Mercury, Saturn, Earth, Jupiter, Venus, Neptune, Mars, Uranus", "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune", "Mars, Uranus, Earth, Neptune, Saturn, Jupiter, Mercury, Venus","3"],
+  ["Question 1: Which number comes next? 16, 17, 18, ___", "19", "20", "11", "15", "1"],
+  
+  ["Question 2: One quarter is equal to how many cents?", "10 cents", "5 cents", "25 cents", "30 cents", "3"],
+  
+  ["Question 3: Jake had 6 pencils, but gave 4 to his best friends. How many pencils does Jake have left?", "8", "2", "4", "3", "2"],
+  
+  ["Question 4: What is 18 - 5?", "15", "13", "19", "8","2"],
+  
+  ["Question 5: How many dimes are there in fifty cents?", "2", "4", "3", "5", "4"],
+  
+  ["Question 6: What is 24 + 6?", "28", "34", "30", "31", "3"],
+  
+  ["Question 7: Which equals the same value as 3 + 4?", "8 - 1", "5 + 6", "9 - 4", "3 + 2", "1"],
+  
+  ["Question 8: What is 9 + 6 - 4?", "12", "11", "15", "8", "2"],
+  
+  ["Question 9: Which number means four tens and five ones?", "51", "54", "45", "42", "3"],
+  
+  ["Question 10: Ten kids are playing in the yard. There are 3 boys. How many girls are there?", "5", "7", "2", "9", "2"],
   ];
