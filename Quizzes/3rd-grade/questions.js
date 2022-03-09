@@ -11,11 +11,11 @@ var questions = [
   
   ["Question 5: Select the answer below: (5)(3-1)+4 = ?", "14", "15", "20", "12", "1"],
   
-  ["Earth revolves around the ___", "Sun", "Moon", "clouds", "planets","1"],
+  ["Question 6: There were four trees with six birds on each tree. Then, seven birds flew away. How many birds were still on the trees?", "24", "28", "17", "20", "3"],
   
-  ["How long does it take to go through the phases of the Moon cycle?", "About one day", "About one decade", "About one year", "About one month","4"],
+  ["Question 7: A picture frame has 2 sides that are 6 inches and 2 sides that are 10 inches. What is the perimeter of the picture frame?", "60", "22", "45", "32","4"],
   
-  ["Which item in space is an average-sized yellow star that is about 1.39 million  kilometers in diameter?", "Moon", "Sun", "Earth", "Jupiter","2"],
+  ["Question 8: Mia went to the bakery and bought 19 cupcakes, 18 apple pies, and 47 donuts. How many items did she buy altogether?", "92", "53", "84", "67","3"],
   
   ["Which two scientists developed a model of the solar system most like the one used  today?", "Copernicus and Galileo", "Galileo and Aristotle", "Copernicus and Ptolemy", "Aristotle and Ptolemy","1"],
   
