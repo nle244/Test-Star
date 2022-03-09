@@ -17,7 +17,7 @@ var questions = [
   
   ["Question 8: Mia went to the bakery and bought 19 cupcakes, 18 apple pies, and 47 donuts. How many items did she buy altogether?", "92", "53", "84", "67","3"],
   
-  ["Which two scientists developed a model of the solar system most like the one used  today?", "Copernicus and Galileo", "Galileo and Aristotle", "Copernicus and Ptolemy", "Aristotle and Ptolemy","1"],
+  ["Question 9: What is the perimeter of an octagon that has sides 9 inches long?", "72", "64", "70", "82", "1"],
   
-  ["What is the correct order of the planets starting with the planet closest to the sun?", "Neptune, Uranus, Saturn, Jupiter, Mars, Earth, Venus, Mercury", "Mercury, Saturn, Earth, Jupiter, Venus, Neptune, Mars, Uranus", "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune", "Mars, Uranus, Earth, Neptune, Saturn, Jupiter, Mercury, Venus","3"],
+  ["Question 10: May started reading a book at 2:10pm. It took her 43 minutes to finish reading. What time did May finish reading her book?", "2:43pm", "3:10pm", "2:53pm", "2:33pm","3"],
   ];
