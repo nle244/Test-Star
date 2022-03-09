@@ -5,11 +5,11 @@ var questions = [
   
   ["Question 2: There were 28 pumpkins in my farm. I added another 65 pumpkins to the farm. How many total pumpkins were there?, "37", "93", "73", "45","2"],
   
-  ["How many planets are in our solar system?", "9", "6", "7", "8","4"],
+  ["Question 3: What number rounds to 60?", "62", "70", "65", "54", "1"],
   
-  [" What two planets are in between the Sun and Earth?", "Mars and Jupiter", "Mercury and Venus", "Neptune and Mercury", "Saturn and Uranus","2"],
+  ["Question 4: There were seven cars with four people in each car. How many people were there in all?", "19", "28", "11", "36","2"],
   
-  ["The Moon revolves around___", "the Sun", " an eclipse", "the Earth", "another moon","3"],
+  ["Question 5: Select the answer below: (5)(3-1)+4 = ?", "14", "15", "20", "12", "1"],
   
   ["Earth revolves around the ___", "Sun", "Moon", "clouds", "planets","1"],
   
