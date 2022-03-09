@@ -3,7 +3,7 @@
 var questions = [
   ["Question 1: Which shows 6 thousands, 7 hundreds, and 4 ones?", "674", "6,740", "6,704", "647", "3"],
   
-  ["A gas giant planet is not made of solid matter. A terrestrial planet is made of___ ", "moons and rocks", "rocks and metals", "gases and heat", "metals and moons","2"],
+  ["Question 2: There were 28 pumpkins in my farm. I added another 65 pumpkins to the farm. How many total pumpkins were there?, "37", "93", "73", "45","2"],
   
   ["How many planets are in our solar system?", "9", "6", "7", "8","4"],
   
