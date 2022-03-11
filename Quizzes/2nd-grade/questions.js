@@ -1,14 +1,23 @@
 //Format is Question, choice 1, choice 2, choice 3, choice 4, # of correct answer
 
 var questions = [
-  ["The Moon is seen because____", "sunlight reflects off of its surface", "the stars shine on it at night", "The Moon's surface is hot","The Moon makes its own light", "1"],
-  ["A gas giant planet is not made of solid matter. A terrestrial planet is made of___ ", "moons and rocks", "rocks and metals", "gases and heat", "metals and moons","2"],
-  ["How many planets are in our solar system?", "9", "6", "7", "8","4"],
-  [" What two planets are in between the Sun and Earth?", "Mars and Jupiter", "Mercury and Venus", "Neptune and Mercury", "Saturn and Uranus","2"],
-  ["The Moon revolves around___", "the Sun", " an eclipse", "the Earth", "another moon","3"],
-  ["Earth revolves around the ___", "Sun", "Moon", "clouds", "planets","1"],
-  ["How long does it take to go through the phases of the Moon cycle?", "About one day", "About one decade", "About one year", "About one month","4"],
-  ["Which item in space is an average-sized yellow star that is about 1.39 million  kilometers in diameter?", "Moon", "Sun", "Earth", "Jupiter","2"],
-  ["Which two scientists developed a model of the solar system most like the one used  today?", "Copernicus and Galileo", "Galileo and Aristotle", "Copernicus and Ptolemy", "Aristotle and Ptolemy","1"],
-  ["What is the correct order of the planets starting with the planet closest to the sun?", "Neptune, Uranus, Saturn, Jupiter, Mars, Earth, Venus, Mercury", "Mercury, Saturn, Earth, Jupiter, Venus, Neptune, Mars, Uranus", "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune", "Mars, Uranus, Earth, Neptune, Saturn, Jupiter, Mercury, Venus","3"],
+  ["Question 1: Counting by 2s, which number comes next? 2, 4, 6, ___", "10", "8", "7", "9", "2"],
+  
+  ["Question 2: How many inches are in 1 foot?", "10", "5", "12", "24", "3"],
+  
+  ["Question 3: There are 8 blocks. 4 of them are red. What fraction of blocks are red?", "8/4", "1/2", "2/3", "6/10", "2"],
+  
+  ["Question 4: What is the place value of 5 in 250?", "ones", "tens", "hundreds", "tenths","2"],
+  
+  ["Question 5: In 3.125, which digit is in the hundreths place?", "3", "1", "2", "5", "4"],
+  
+  ["Question 6: 500 ones = [] tens?", "5", "5000", "50", "0.5", "3"],
+  
+  ["Question 7: 2 days = [] hours?", "48", "24", "100", "50", "1"],
+
+  ["Question 8: How many quarters add up to $1?", "1", "2", "3", "4", "4"],
+  
+  ["Question 9: It is half-past 5. What time is it?", "5:30", "4:30", "5:05", "5:15", "1"],
+  
+  ["Question 10: An apple costs $1.50. A student paid with a $5 bill. How much change should they get back?", "4.50", "2.50", "3.50", "no change", "3"],
   ];
