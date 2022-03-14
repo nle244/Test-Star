@@ -3,7 +3,7 @@
 var questions = [
   ["Question 1: Which shows 6 thousands, 7 hundreds, and 4 ones?", "674", "6,740", "6,704", "647", "3"],
   
-  ["Question 2: There were 28 pumpkins in my farm. I added another 65 pumpkins to the farm. How many total pumpkins were there?, "37", "93", "73", "45","2"],
+  ["Question 2: There were 28 pumpkins in my farm. I added another 65 pumpkins to the farm. How many total pumpkins were there?", "37", "93", "73", "45","2"],
   
   ["Question 3: What number rounds to 60?", "62", "70", "65", "54", "1"],
   
